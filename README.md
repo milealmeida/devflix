@@ -35,7 +35,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 ```bash
 
     # Clonar o repositório
-    $ git clone site
+    $ git clone https://github.com/milealmeida/devflix
 
     # Entrar no diretório
     $ cd devflix
